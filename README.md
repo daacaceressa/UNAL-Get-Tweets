@@ -14,3 +14,5 @@ Execute the file `'tweets_handling.py'` to get statistics of the language and co
 - `'matplotlib'`
 - `'re'`
 - `'tweepy'`
+
+This project is based on the following tutorial: [An Introduction to Text Mining using Twitter Streaming API and Python](http://adilmoujahid.com/posts/2014/07/twitter-analytics/)
